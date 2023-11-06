@@ -18,7 +18,11 @@
 
 ![Captura de pantalla (289)](https://github.com/MaricarmenCatalinaRaymundoRomero/web-main/assets/129924045/44ec305f-dda8-4aaf-8aeb-f2e0c7f5fb82)
 
+* Tambien añadi comentarios de los periodistas dando su opinion y con una foto al costado.
+
 ![Captura de pantalla (290)](https://github.com/MaricarmenCatalinaRaymundoRomero/web-main/assets/129924045/ee495b05-6bbf-46de-bf34-3575220529fa)
+
+* Los botones te llevan al link donde te indica del tema. 
 
 ![Captura de pantalla (291)](https://github.com/MaricarmenCatalinaRaymundoRomero/web-main/assets/129924045/cc6fd60a-5382-4fb9-a84a-780b232bd433)
 
